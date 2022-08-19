@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(0, 0, 0);
+  ruby-span: rgb(148, 111, 111);
+}
+*{
+  margin: 0;
+  padding: 0%;
+}
+#First{
+  text-align: center;
+  background-image: url(https://cdn.shopify.com/s/files/1/0558/2127/1211/products/SodaPDF-converted-RickandMortySplit_560x.jpg?v=1641474086);
+
+  padding: 30rem 0;
+}
+#First h1{
+    color: #212529;
+    font-size: 88px;
+}
